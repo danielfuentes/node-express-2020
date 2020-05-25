@@ -1,0 +1,19 @@
+{
+  "name": "express1",
+  "version": "1.0.0",
+  "description": "Pequeño proyecto de NodeJs - Express",
+  "main": "index.js",
+  "scripts": {
+    "start" : "node src/index.js",
+    "test": "nodemon src/index.js"
+   },
+  "keywords": [],
+  "author": "Daniel Fuentes",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
