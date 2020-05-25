@@ -1,6 +1,6 @@
 <h1>Desarrollo de un código usando NodeJs y Express</h1>
 <br>
-<h2>Para que este código lo pueda ejecutar en sus equipos deben considerar lo siguiente: </h2>
+<h2>Para que este código lo pueda ejecutar en sus equipos, deben considerar lo siguiente: </h2>
 <br>
 <p>1.- Si aun no posee en su equipo instalado NodeJs, entonces acuda a la siguiente dirección: - https://nodejs.org/en/  - Luego de descagar la versión LTS - Lo instalan </p>
 <p>2.- Para verificar que su NodeJs está trabajando perfectamente - ejecute en la consola: <strong>node -v ó node --version </strong>, debe aparecer inmediatamente la versión instalada   <p>
